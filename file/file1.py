@@ -1,0 +1,1 @@
+fhand = open('hello.txt', 'r') # open 함수는 handle 을 반환한다.
